@@ -1,0 +1,198 @@
+#EXTM3U: HORSE RACING NETWORK
+#EXTINF:-1,##########   piterstream    ##########
+#EXTINF:-1,Ajax Downs:
+https://5cff865de13ca.streamlock.net/juegaenlinea/PVD/playlist.m3u8?
+#EXTINF:-1,Ajax Downs: (AT TRACK)
+https://playback-oregon.mediafusionapp.com/platnorec/_definst_/ngrp:Live_1_1@655607_all/chunklist_b5701238.m3u8
+#EXTINF:-1,CapitalOTB:
+https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/chucklist.m3u8
+#EXTINF:-1,Dubai Racing 1
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b300000.m3u8
+#EXTINF:-1,Dubai Racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1,le trot (french)
+https://chevalfrancais-trot-p19-cdn.hexaglobe.net/ffa3327d7a4707ab12557e93d75ee441/5eff3ac1/chevalfrancais/eqdprotrotpri_fre.smil/eqdprotrotpri_fre_540p.m3u8
+#EXTINF:-1,Finger Lakes (youtube)
+https://youtu.be/TsGmZa93QlI
+#EXTINF:-1,Fort Erie Racetrack
+https://www.youtube.com/channel/UCg23P0uoVK0Czicxj8or8NA.m3u8
+#EXTINF:-1,GBI RACING
+https://www.atgvision.com/hls/gbi2/index.m3u8
+#EXTINF:-1, Maquis Downs
+mmsh://wmle.nym011.internap.com/live_telephoto_marquis?MSWMExt=.asf
+#EXTINF:-1,Mexcio
+https://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8
+#EXTINF:-1,South Africa Racing 1
+https://www.atgvision.com/hls/pgi-live/index.m3u8
+#EXTINF:-1,bettingtv / William Hill 1
+https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_tklzcakd_1_1/chunklist.m3u8
+#EXTINF:-1,bettingtv / William Hill 2
+https://betamg-i.akamaihd.net/hls/live/513429-b/willhill/0_tklzcakd_1_2/chunklist.m3u8
+#EXTINF:-1,bettingtv / William Hill 3
+https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_3838s0ja_1_1/chunklist.m3u8
+#EXTINF:-1,bettingtv / William Hill 4
+http://betamg-i.akamaihd.net/hls/live/513429/bettingtv/0_tklzcakd_1_3/chunklist.m3u8
+#EXTINF:-1,Dubai Racing
+rtsp://dmiLiveDubaiRacing2.flash.internapcdn.net/dmiLiveDubaiRacing2/live_1
+#EXTINF:-1,Dresden Raceway
+https://playback-oregon.mediafusionapp.com/platnorec/_definst_/ngrp:Live_1_1@658323_all/playlist.m3u8
+#EXTINF:-1,Clinton
+https://playback-oregon.mediafusionapp.com/platnorec/_definst_/ngrp:Live_1_1@656750_all/playlist.m3u8
+#EXTINF:-1,Hiawatha Horse Park
+https://playback-oregon.mediafusionapp.com/ontrack-low/_definst_/ngrp:Live_1_1@655608_all/playlist.m3u8
+#EXTINF:-1,Hanover Park
+https://playback-oregon.mediafusionapp.com/platnorec/_definst_/ngrp:Live_1_1@658324_all/chunklist_b1875158.m3u8
+#EXTINF:-1,Kawartha Downs
+https://playback-oregon.mediafusionapp.com/platnorec/_definst_/ngrp:Live_1_1@658545_all/playlist.m3u8
+#EXTINF:-1,WoobineMohawk Park Qualifiers
+https://youtu.be/mhZpHA0SsZQ
+#EXTINF:-1,Summerside Raceway
+http://baliantmmd.mmdlive.lldns.net/baliantmmd/535f844d76b84fec8d06037c40c07691/chunklist_b1128000.m3u8
+#EXTINF:-1,Tv Turfe Live Stream
+https://youtu.be/XU2PhdRfehI
+#EXTINF:-1,Hipódromo Camarero Live Stream
+https://youtu.be/sKCLkFh3NWs
+#EXTINF:-1,HipódromodeLasAméricas (MEXICO)
+https://youtu.be/0yYY7nx6BTM
+#EXTINF:-1,Monterrico
+https://ed3os.live.opencaster.com/jcpstream_mid/index.m3u8
+#EXTINF:-1,Monterrico 1
+https://www.opencaster.com/resources/hls_stream/hipodromojcp1.m3u8
+#EXTINF:-1,chile racing
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
+#EXTINF:-1,maaonas racing
+http://wowza.montevideo.net.uy:1941/hipica/livestream/playlist.m3u8
+#EXTINF:-1,maaonas racing (YOUTUBE)
+https://youtu.be/jKzvI8g_L5w
+#EXTINF:-1,peru
+https://www.opencaster.com/resources/hls_stream/hipodromojcp.m3u8
+#EXTINF:-1,JCSA Live
+https://youtu.be/4OqRZ_cV-0Q
+#EXTINF:-1,##########   ATG CHANNEL  ##########
+#EXTINF:-1,ATG: CHANNEL 1
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 2
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_2_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 3
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_3_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 4
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_4_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 5
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_5_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 6
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_6_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 7
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_7_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 8
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_8_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 9
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_9_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 10
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_10_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 11
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_11_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 12
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_12_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 13
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_13_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 14
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_14_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 15
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_15_free_3.m3u8
+#EXTINF:-1,ATG: CHANNEL 16
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_16_free_3.m3u8
+#EXTINF:-1,AU:Sky Racing 1 AU(VPN)
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
+#EXTINF:-1,AU:Sky Racing 1 AU
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1,AU:Sky Racing 2 AU(VPN)
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8
+#EXTINF:-1,AU:Sky Racing 2 AU
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1,AU:Thoroughbred Central AU
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:-1,AU:Sky Greyhound AU
+https://skylivegrv-i.akamaihd.net/hls/live/780031/skylivegrv/grv_extreme@780031.m3u8
+#EXTINF:-1,AU:Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+#EXTINF:-1,Denmark
+https://5c471a9258268.streamlock.net/dhv/fasttrack_denmark/playlist.m3u8
+#EXTINF:-1,EQUIDIA LIVE 1
+https://zeturf-tvcp1-b19-cdn.hexaglobe.net/b571f2cc49117c6494671e3754c5ecc0/5f784698/main/zeturftvcp1_fre.smil/zeturftvcp1_fre_540p.sdp.m3u8
+#EXTINF:-1,EQUIDIA LIVE 2
+https://zeturf-tvcp2-p15-cdn.hexaglobe.net/1bc87a4f6c48a514f241cd17b8a62a38/5f8c236f/main/zeturftvcp2_fre.smil/zeturftvcp2_fre_540p.sdp.m3u8
+#EXTINF:-1,WETTSTAR (GREMANY)
+https://youtu.be/cxeaRXPet8w
+#EXTINF:-1,MR.greyhound
+https://youtu.be/LBQHeTjjU4c
+#EXTINF:-1,##########   VIRAL CORAL  ##########
+#EXTINF:-1,CORAL HORSES
+https://cr-live.cdn.igamemedia.com/hls-cr/coralhorses_web/index.m3u8
+#EXTINF:-1,CORAL HORSESSPRINT
+https://cr-live.cdn.igamemedia.com/hls-cr/coralhorsessprint_web/index.m3u8
+#EXTINF:-1,CORAL HORSESJUMPS
+https://cr-live.cdn.igamemedia.com/hls-cr/coralhorsesjumps_web/index.m3u8
+#EXTINF:-1,CORAL DOGS
+https://cr-live.cdn.igamemedia.com/hls-cr/coraldogs_web/index.m3u8
+#EXTINF:-1,##########   VIRAL SKYBET  ##########
+#EXTINF:-1,skybet HORSES
+https://betamg-i.akamaihd.net/hls/live/252820/skybet/horses/playlist.m3u8
+#EXTINF:-1,skybet HORSES JUMPS
+https://betamg-i.akamaihd.net/hls/live/252820/skybet/0_ye4n5rwc_1/playlist.m3u8
+#EXTINF:-1,skybet Dogs
+https://betamg-i.akamaihd.net/hls/live/252820/skybet/dogs/playlist.m3u8
+#EXTINF:-1,##########   VIRAL LADBROKES  ##########
+#EXTINF:-1,LADBROKES horses flat
+https://lb-live.cdn.igamemedia.com/hls-lb/LBhorsesflat_hi/index.m3u8
+#EXTINF:-1,LADBROKES grand national
+ttps://lb-live.cdn.igamemedia.com/hls-lb/LBgrandnational_hi/index.m3u8
+#EXTINF:-1,LADBROKES dogs
+https://lb-live.cdn.igamemedia.com/hls-lb/LBdogs_hi/index.m3u8
+#EXTINF:-1,##########   VIRAL BETFAIR  ##########
+#EXTINF:-1,BETFAIR HORSES
+https://betamg-i.akamaihd.net/hls/live/513423/betfair/0_gv26w2uu_1/playlist.m3u8
+#EXTINF:-1,BETFAIR HORSES JUMP
+https://betamg-i.akamaihd.net/hls/live/513423/betfair/0_hxkg0ycr_1/playlist.m3u8
+#EXTINF:-1,BETFAIR DOGS
+https://betamg-i.akamaihd.net/hls/live/513423/betfair/dogs/playlist.m3u8
+#EXTINF:-1,##########   VIRAL BETFAIR  ##########
+#EXTINF:-1,BETFAIR HORSES FLAT
+https://betamg-i.akamaihd.net/hls/live/571227/paddypower/cycling/playlist.m3u8
+#EXTINF:-1,BETFAIR HORSES JUMP
+https://betamg-i.akamaihd.net/hls/live/571227/paddypower/horses/playlist.m3u8
+#EXTINF:-1,BETFAIR HORSES SPRINT
+https://betamg-i.akamaihd.net/hls/live/571227/paddypower/tennis/playlist.m3u8
+#EXTINF:-1,BETFAIR DOGS
+https://betamg-i.akamaihd.net/hls/live/571227/paddypower/dogs/playlist.m3u8
+#EXTINF:-1,##########   VIRAL WILLIAMHILL  ##########
+#EXTINF:-1,WILLIAMHILL HORSES FLAT
+https://betamg-i.akamaihd.net/hls/live/513429/willhill/horsesf/playlist.m3u8
+#EXTINF:-1,WILLIAMHILL HORSES JUMP
+https://betamg-i.akamaihd.net/hls/live/513429/willhill/horsesj/playlist.m3u8
+#EXTINF:-1,WILLIAMHILL HORSES SPRINT
+https://betamg-i.akamaihd.net/hls/live/513429/willhill/cars/playlist.m3u8
+#EXTINF:-1,WILLIAMHILL Greyhounds Flats
+https://betamg-i.akamaihd.net/hls/live/513429/willhill/cycling/playlist.m3u8
+#EXTINF:-1,WILLIAMHILL Greyhounds Jumps
+https://betamg-i.akamaihd.net/hls/live/513429/willhill/dogsj/playlist.m3u8
+#EXTINF:-1,WILLIAMHILL Greyhounds
+https://betamg-i.akamaihd.net/hls/live/513429/willhill/dogsf/playlist.m3u8
+#EXTINF:-1,Gufstream Park
+https://player-api.new.livestream.com/accounts/9869799/events/3519786/live.m3u8
+#EXTINF:-1,Maryland Racing
+https://player-api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8
+#EXTINF:-1,Santa Anita Park
+https://player-api.new.livestream.com/accounts/9869799/events/4789642/live.m3u8
+#EXTINF:-1,Golden Gate Fields
+https://player-api.new.livestream.com/accounts/9869799/events/9051411/live.m3u8
+#EXTINF:-1,Rosecroft Raceway
+https://player-api.new.livestream.com/accounts/9869799/events/6772185/live.m3u8
+#EXTINF:-1,HIPICA TV
+https://player-api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8
+#EXTINF:-1,HIPICA TV (YOUTUBE)
+https://youtu.be/YRrnfmksry4
+#EXTINF:-1,##########   NYRA  ##########
+#EXTINF:-1,America's Day (youtube)
+https://youtu.be/qOrDNg17HHk
