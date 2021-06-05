@@ -1,7 +1,4 @@
 #EXTM3U: HORSE RACING NETWORK
-#EXTINF:-1,##########   piterstream    ##########
-#EXTINF:-1,Ajax Downs:
-https://5cff865de13ca.streamlock.net/juegaenlinea/PVD/playlist.m3u8?
 #EXTINF:-1,Ajax Downs: (AT TRACK)
 https://playback-oregon.mediafusionapp.com/platnorec/_definst_/ngrp:Live_1_1@655607_all/chunklist_b5701238.m3u8
 #EXTINF:-1,CapitalOTB:
